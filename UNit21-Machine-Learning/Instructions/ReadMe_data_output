@@ -1,0 +1,16 @@
+Exoplanet Exploration
+
+Here are the list of models tried and their scores:
+
+Logistic Regression testing scored 63.95% (V1) while Linear Model testing scored -72.17% (V2).
+
+Decision Tree Classifier scored 86.84% (V2) while Random Forest Classifier 89.18% (V2). 
+
+KNN Classifier scored 79% (V3).
+
+Attempted SVM StandardScaler and MinMaxScaler with Liner, Sigmoid, and RBF Kernels (V4). (Difficulty with code.)
+
+Deep Learning with MinMaxScaler scored higher accuracy percentage (88.56%) than StandardScaler (88.32%).(V5)
+
+Deep Learning model using random state 42, epochs 80 had the best loss (26.30%) and best accuracy (89.58%) results.(V6)
+
